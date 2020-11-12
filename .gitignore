@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+cmake-build-debug
+3519_demo/
+build
+*.bgr
+*.rgb
+*.yuv
+*.jpg
+*.bmp
+*.y
+*.cfg
+*.o
+beiwang.txt
+

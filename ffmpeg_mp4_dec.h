@@ -7,7 +7,10 @@
 
 
 #include <atomic>
+extern "C"{
 #include <libavformat/avformat.h>
+}
+
 #include <mutex>
 #include "iostream"
 #include "thread"
